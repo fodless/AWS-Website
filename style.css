@@ -1,0 +1,85 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+    background: linear-gradient(skyblue, orange);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#box1{
+    border: 2px solid;
+    height: 150px;
+    width: 500px;
+
+    position: absolute;
+
+    top: 60px;
+}
+
+#box2{
+    border: 2px solid;
+    height: 160px;
+    width: 500px;
+
+    position: absolute;
+
+    top: 265px;
+}
+
+#box3{
+    border: 2px solid;
+    height: 150px;
+    width: 600px;
+
+    position: absolute;
+    left: 510px;
+    top: 60px;
+}
+
+#box4{
+    border: 2px solid;
+    height: 160px;
+    width: 500px;
+
+    position: absolute;
+
+    top: 480px;
+}
+
+#box5{
+    border: 2px solid;
+    height: 160px;
+    width: 500px;
+
+    position: absolute;
+
+    top: 685px;
+}
+
+#box6{
+    border: 2px solid;
+    height: 160px;
+    width: 500px;
+
+    position: absolute;
+
+    top: 890px;
+}
+
+#box7{
+    border: 5px solid;
+    height: 710px;
+    width: 920px;
+
+    position: absolute;
+
+    left: 520px;
+    top: 265px;
+}
+
+#Audidesc{
+    position: absolute;
+
+    top: 5px;
+}
